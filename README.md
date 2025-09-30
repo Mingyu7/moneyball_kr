@@ -29,3 +29,7 @@
 ### 6. 연봉 대비 효율
 - “달러당 기여도(가성비)” 계산.  
 - 같은 성적이면 값싼 선수가 훨씬 이득임.  
+
+## 9.30
+## KBO 선수 기록 정보 웹사이트
+https://www.koreabaseball.com/record/player/hitterbasic/basic1.aspx
